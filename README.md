@@ -1,6 +1,6 @@
-# Marshmallow Waitlist
+# Marshmallow Early Access
 
-Join the waitlist for Marshmallow at [marshmallowkids.xyz](https://marshmallowkids.xyz)
+Join the Early Access List for Marshmallow at [marshmallowkids.xyz](https://marshmallowkids.xyz)
 
 ## Description
 Early access signup page for Marshmallow - the sweetest way to learn finance!
