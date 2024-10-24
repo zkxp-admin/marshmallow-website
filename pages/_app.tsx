@@ -8,7 +8,7 @@ function MyApp({ Component, pageProps }: AppProps) {
       <Head>
         <title>Marshmallow - Early Access</title>
         <meta name="description" content="Sign up for Early Access to Marshmallow - The sweetest way to learn finanace!" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
         <link rel="icon" href="/favicon.png" />
       </Head>
       <Component {...pageProps} />

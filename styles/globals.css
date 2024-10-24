@@ -4,7 +4,12 @@ body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-  height: 100%;  
+  height: 100%; 
+  height: -webkit-fill-available; 
+}
+
+html {
+  background-color: #f1dfbbff;
 }
 
 a {
@@ -25,7 +30,10 @@ html {
 }
 
 @supports (-webkit-touch-callout: none) {
-  .min-h-screen {
+  .container {
+    min-height: -webkit-fill-available;
+  }
+  .main {
     min-height: -webkit-fill-available;
   }
 }
