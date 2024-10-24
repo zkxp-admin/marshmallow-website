@@ -6,7 +6,7 @@
 
 - Background: #f1dfbbff
 - Background Med: #f7e8c5ff
-- Background Lite: #faf1dcff
+- Background Lite: #f7eedfff
 
 - Blue: #2c9ff1
 - Blue Hover: #207aba
